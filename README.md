@@ -1,7 +1,8 @@
 ### Olá ! 😎
 
-Tenho 19 anos e estou estudando Python e C# (na Udemy)
-Faço bacharelado em Ciência da Computação pela Universidade Estadual de Maringá 😄
+Tenho 19 anos e estou estudando Python e C# (na Udemy).
+
+Faço bacharelado em Ciência da Computação pela Universidade Estadual de Maringá. 😄
 <!--
 **Brumassio/Brumassio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
