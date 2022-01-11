@@ -1,6 +1,6 @@
 ### Olá ! 😎
 
-Tenho 19 anos e estou estudando Python e C# (na Udemy).
+Tenho 19 anos e estou estudando C# (na Udemy).
 
 Faço bacharelado em Ciência da Computação pela Universidade Estadual de Maringá. 😄
 <!--
