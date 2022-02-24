@@ -33,8 +33,8 @@ On my free time I have been studying .NET and Java.
 ---
 <div>
   <a href="https://github.com/Brumassio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schelip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schelip&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brumassio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brumassio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
