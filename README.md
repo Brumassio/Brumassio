@@ -1,6 +1,5 @@
 ### Olá, eu sou o Diogo Brumassio 👋
 
-<img src="https://c.tenor.com/0HpGGC3NQnQAAAAC/nutsa-dianho.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="GIF animado de um personagem dançando">
 
 Sou estudante de Ciência da Computação na **Universidade Estadual de Maringá (UEM)**. 
 
@@ -9,7 +8,17 @@ Sou estudante de Ciência da Computação na **Universidade Estadual de Maringá
 - 📫 Como falar comigo: sinta-se à vontade para me contatar por [LinkedIn](https://www.linkedin.com/in/diogobrumassio/) ou E-mail.
 
 ---
+### 📊 Minhas Estatísticas no GitHub
 
+<div align="center">
+  <a href="https://github.com/Brumassio">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brumassio&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brumassio&layout=compact&langs_count=7&theme=omni"/>
+  </a>
+</div>
+
+
+---
 ### 💻 Tecnologias e Ferramentas
 
 <div align="center">
@@ -24,16 +33,6 @@ Sou estudante de Ciência da Computação na **Universidade Estadual de Maringá
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/Brumassio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brumassio&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brumassio&layout=compact&langs_count=7&theme=omni"/>
-  </a>
-</div>
-
----
 
 ### 📫 Entre em Contato
 
